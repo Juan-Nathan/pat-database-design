@@ -36,12 +36,6 @@ A high-level **Logical Entity-Relationship Diagram (ERD)** is included in the re
 - **Modeling Tool**: Oracle SQL Developer Data Modeler 23.1
 - **Language**: Oracle SQL DDL
 
-## 🚀 How to Run
-
-1. Clone the repository or download the ZIP file from GitHub.
-2. Open Oracle SQL Developer or SQL*Plus.
-3. Run the `pat_schema.sql` script:
-
 ## 👥 Authors
 
-Developed by Juan Nathan, Chloe Tan, and Raynen Athirathan of Group 27 for FIT3171 at Monash University.
+Developed by Juan Nathan, Chloe Tan, and Raynen Athirathan of Group 27 for FIT3171 at Monash University Malaysia.
