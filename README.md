@@ -4,7 +4,7 @@ This repository contains a fully normalized **relational database schema** desig
 
 The project was implemented using **Oracle SQL** and structured through **logical ER modeling**. It includes a complete schema script with entities, relationships, constraints, and embedded business rules.
 
-## 📋 Project Overview
+## Project Overview
 
 Paris Arrow Transit (PAT) requires a centralized system to manage:
 - 🚐 A fleet of vehicles and their features
@@ -21,7 +21,7 @@ The schema includes **15 main tables** and **40+ constraints**, embedding key bu
 - Expiring training modules and module count tracking
 - Many-to-many support (e.g., driver-language, vehicle-feature)
 
-## 🧱 Logical ER Diagram
+## Logical ER Diagram
 
 A high-level **Logical Entity-Relationship Diagram (ERD)** is included in the repository as `pat_logical.pdf`. It illustrates the structure of the PAT database, including:
 
@@ -30,12 +30,13 @@ A high-level **Logical Entity-Relationship Diagram (ERD)** is included in the re
 - Primary and foreign keys
 - Relationship cardinality
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **Database Platform**: Oracle 12c
 - **Modeling Tool**: Oracle SQL Developer Data Modeler 23.1
 - **Language**: Oracle SQL DDL
 
-## 👥 Authors
+## Authors
 
 Developed by Juan Nathan, Chloe Tan, and Raynen Athirathan of Group 27 for FIT3171 at Monash University Malaysia.
+
