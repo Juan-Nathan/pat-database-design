@@ -1,4 +1,4 @@
-# 🚐 Paris Arrow Transit (PAT) – Database Design
+# 🚌 Paris Arrow Transit Database Design
 
 This repository contains a fully normalized **relational database schema** designed for **Paris Arrow Transit (PAT)**, a fictional transport company subcontracted by the Olympic Federation to manage the transportation of officials during the Olympic Games.
 
@@ -39,5 +39,6 @@ A **logical entity-relationship diagram (ERD)** is included in the repository as
 ## Authors
 
 Developed by Juan Nathan, Chloe Tan, and Raynen Athirathan of Group 27 for FIT3171 at Monash University Malaysia.
+
 
 
