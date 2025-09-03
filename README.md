@@ -34,11 +34,12 @@ A **logical entity-relationship diagram (ERD)** is included in the repository as
 
 - **Database Platform**: Oracle 12c
 - **Modeling Tool**: Oracle SQL Developer Data Modeler 23.1
-- **Language**: Oracle SQL DDL
+- **Language**: SQL (DDL)
 
 ## Authors
 
 Developed by Juan Nathan, Chloe Tan, and Raynen Athirathan of Group 27 for FIT3171 at Monash University Malaysia.
+
 
 
 
