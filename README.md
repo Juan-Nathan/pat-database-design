@@ -14,12 +14,12 @@ PAT requires a centralized system to manage:
 - Training modules with expiry logic and completion tracking
 - Multilingual support using ISO 639-1 codes
 
-The schema includes **15 main tables** and **40+ constraints**, embedding key business rules such as:
+The schema includes **15 main tables** and **over 40 constraints**, embedding key business rules such as:
 - Driver suspension status
 - Unique vehicle-trip constraints by datetime
 - Chef de Mission as a self-referencing official
 - Expiring training modules and module count tracking
-- Many-to-many support (e.g., driver-language, vehicle-feature)
+- Many-to-many support (e.g., drivers and languages they speak)
 
 ## Logical ER Diagram
 
@@ -39,6 +39,7 @@ A **logical entity-relationship diagram (ERD)** is included in the repository as
 ## Authors
 
 Developed by Juan Nathan, Chloe Tan, and Raynen Athirathan of Group 27 for FIT3171 at Monash University Malaysia.
+
 
 
 
