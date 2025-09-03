@@ -2,7 +2,7 @@
 
 This project presents a fully normalized **relational database schema** for **Paris Arrow Transit (PAT)**, a fictional transport company subcontracted by the Olympic Federation to manage the transportation of officials during the Olympic Games.
 
-The database was designed through **entity-relationship (ER) modeling** and implemented in **Oracle Database**. It includes a complete schema script with entities, relationships, constraints, and embedded business rules.
+The database was designed through **entity-relationship (ER) data modeling** and implemented in **Oracle Database**. It includes a complete schema script with entities, relationships, constraints, and embedded business rules.
 
 ## Project Overview
 
@@ -39,6 +39,7 @@ A **logical entity-relationship diagram (ERD)** is included in the repository as
 ## Authors
 
 Developed by Juan Nathan, Chloe Tan, and Raynen Athirathan of Group 27 for FIT3171 at Monash University Malaysia.
+
 
 
 
