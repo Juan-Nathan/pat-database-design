@@ -38,7 +38,8 @@ A **logical entity-relationship diagram (ERD)** is included in the repository as
 
 ## Authors
 
-Developed by Juan Nathan, Chloe Tan, and Raynen Athirathan of Group 27 for FIT3171 at Monash University Malaysia.
+Developed by Juan Nathan, Chloe Tan, and Raynen Athirathan.
+
 
 
 
