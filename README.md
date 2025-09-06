@@ -7,6 +7,7 @@ The database schema was designed through **entity-relationship (ER) data modelin
 ## Project Overview
 
 PAT requires a centralized system to manage:
+
 - A fleet of vehicles and their features
 - Drivers with training records, language skills, and security clearance
 - National Olympic Committees (NOCs) and their officials
@@ -15,6 +16,7 @@ PAT requires a centralized system to manage:
 - Multilingual support using ISO 639-1 codes
 
 The schema includes **15 main tables** and **over 40 constraints**, embedding key business rules such as:
+
 - Driver suspension status
 - Unique vehicle-trip constraints by datetime
 - Chef de Mission as a self-referencing official
@@ -39,6 +41,7 @@ A **logical entity-relationship diagram (ERD)** is included in the repository as
 ## Authors
 
 Developed by Juan Nathan, Chloe Tan, and Raynen Athirathan.
+
 
 
 
